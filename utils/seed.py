@@ -1,5 +1,3 @@
-📄 File 2: Procfile (Root Level)
-web: uvicorn server:app --host 0.0.0.0 --port $PORT
 📄 File 3: requirements.txt (Root Level)
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.3
